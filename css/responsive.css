@@ -1,0 +1,20 @@
+/*==========================
+tab rotate
+===========================*/
+@media (min-width: 992px) and (max-width: 1200px) {
+.menu ul li {
+    margin-right: 5px;
+}
+}
+/*==========================
+tab device
+===========================*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+/*==========================
+small device /mobile sm and large
+===========================*/
+@media (max-width: 767px) {
+
+}

@@ -5,6 +5,19 @@ $(document).ready(function(){
   	dots: false,
   	margin: 30,
   	autoplay: true,
+    responsive: {
+         0: {
+            items: 1,
+            nav: false,
+         },
+         600: {
+            items: 1,
+            nav: false,
+         },
+         1000: {
+            nav: false,
+         }
+      }
   });
 
   $('#map')
